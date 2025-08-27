@@ -23,11 +23,6 @@ const API = "https://todo-backend.onrender.com";
 ```
 3. Push changes to GitHub and (optionally) enable GitHub Pages (see below).
 
-## Deploy on GitHub Pages
-1. Push this repo to GitHub.
-2. Go to Settings → Pages → Source → select `main` branch and root `/`.
-3. Save → your site will be available at:
-   `https://<YOUR_USERNAME>.github.io/<REPO_NAME>/`
 
 ## Notes
 - Do NOT commit any secrets or backend `.env` files to GitHub.
