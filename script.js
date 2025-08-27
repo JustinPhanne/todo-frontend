@@ -1,7 +1,5 @@
 // To-Do App script.js
-// If you haven't set up the backend yet, the app will use localStorage.
-// When you deploy the backend, replace API with your backend URL (no trailing slash), e.g.:
-// const API = "https://todo-backend-xxxxx.onrender.com";
+
 const API = "<YOUR_BACKEND_URL>";
 
 const taskInput = document.getElementById("taskInput");
