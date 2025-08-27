@@ -1,6 +1,6 @@
 // To-Do App script.js
 
-const API = "<YOUR_BACKEND_URL>";
+const API = "https://todo-backend-4z8k.onrender.com";
 
 const taskInput = document.getElementById("taskInput");
 const addBtn = document.getElementById("addBtn");
