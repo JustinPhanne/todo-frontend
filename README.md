@@ -27,3 +27,7 @@ const API = "https://todo-backend.onrender.com";
 ## Notes
 - Do NOT commit any secrets or backend `.env` files to GitHub.
 - This frontend includes a fallback so it works even if the backend is not set.
+
+## Live Demo
+https://JustinPhanne.github.io/todo-frontend/ | Code: https://github.com/JustinPhanne/todo-frontend + https://github.com/JustinPhanne/todo-backend
+
